@@ -1,3 +1,4 @@
+# Project Management Pathway
 Welcome to the Project Management Pathway.
 
 Within this repository, you'll find carefully selected learning materials and pathways to support your educational journey. Our color-coded guide ensures efficient navigation:
