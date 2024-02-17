@@ -23,12 +23,17 @@ Continue your full learning path with this Goole course or any other book or vid
   <summary> Project Management - Styles </summary>
   You should choose your leadership/management approach based on (a) your project aim, (b) the personality of your team, (c) your environment, and (d) your own personality and skill portfolio. There is a trade-off between team development and project progress. In my opinion, the only way out of this matrix is to talk to people and mention the aims of the project and this trade-off (for example, you can say this project is 70% progress-based and 30% team-development-based because of ..., just talk to people (be transparent and polite), and let them choose if their benefits outweigh their costs. This will solve many things, believe me. 
   
-  - This short video can give you a grasp of PM styles: [Leadership Styles Explained Kurt Lewin 🟢](https://www.youtube.com/watch?v=RmqsV1293Rk)
+  This short video can give you a grasp of PM styles:
+  - [Leadership Styles Explained Kurt Lewin 🟢](https://www.youtube.com/watch?v=RmqsV1293Rk)
   
-  My favourite PM style is [Agile Project Management (45 min) 🔵](https://www.youtube.com/watch?v=tlB-WAR0j-U) See the short video if don't have time: 
-  - [MUSTE SEE VIDEO of Agile PM for Data Projects (15 min) 🟢](https://www.youtube.com/watch?v=ERWZhMZuJfs&pp=ygUdcHJvamVjdCBtYW5hZ21lbnQgIGluIHNjaWVuY2U%3D)
+  My favourite PM style is Agile Project Management, here is a short and long video. Choose one based on your time 
 
-  If you are interested in the philosophy of leadership this video is one of my favourites: [Leadership Theories Top 10 (90 min) 🔵](https://www.youtube.com/watch?v=-S7j2ZpwExc)
+  - [MUSTE SEE VIDEO of Agile PM for Data Projects (15 min) 🟢](https://www.youtube.com/watch?v=ERWZhMZuJfs&pp=ygUdcHJvamVjdCBtYW5hZ21lbnQgIGluIHNjaWVuY2U%3D)
+  - [Agile Project Management Full Course (3:30 min) 🔵](https://www.youtube.com/watch?v=tlB-WAR0j-U)
+
+  If you are interested in the philosophy of leadership this video is one of my favourites: 
+  
+  - [Leadership Theories Top 10 (90 min) 🔘](https://www.youtube.com/watch?v=-S7j2ZpwExc)
 
 </details>
   
