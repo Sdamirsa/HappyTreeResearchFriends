@@ -41,7 +41,14 @@ Continue your full learning path with this Goole course or any other book or vid
    </details>
 
   
-
+  <details>
+    <summary> Project Management - Communication </summary>
+    This is the hardest part of PM. You learned how to define a project, what is PM fundamentals and its styles, and what tools you need to do PM, but all of these steps will fail if you can't work and communicate with people. In my opinion, your success is heavily dependent on your previous life experiences (the number of travels you had, the wide range of people you talked to, etc) and your talent. You can improve your skills for sure. The only advice I have is to be transparent and think about each scenario at first, and discuss your solution directly with all team members at the beginning of the project. Some challenges as a project manager are: how you gonna find out someone is the right person, how you gonna tell them what they should do, how you will provide positive and negative feedback, how you can help members improve their performance, and finally when you should stop working with them and how you gonna do that. On the other side, you are not a project manager, but a people regulator, so other issues that you should think of are: why people should work on this project, why people should work with you, would you work with yourself, how you can make sure that people will be rewarded fairly. In one word, good luck :) I hope these contents help you to have some general idea about communication:
+    - Project Communications Management Overview (12 min) 🟢
+    - 10.1 Plan Communication Management (10 min) 🔵
+    - 10.2 Manage Communication (10 min) 🔵
+    - 10.3 Monitor Communication (10 min) 🔵
+   </details>
 </details>
 First version: Feb 2024
 To do: 
