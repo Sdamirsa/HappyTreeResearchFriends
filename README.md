@@ -6,7 +6,7 @@ I will look through different contents to choose the most efficient ones. You ca
 Colour guide: For your initial start of each section first see green circle 🟢. You can do something after finishing green circles, and by starting early, you will learn more deeply. After some initial experience, you can continue learning blue dots 🔵, which are important but for intermediate levels, and white circles 🔘, which are optional content. I also provided some deep content in orange circles 🟠, but I don't believe that these things will help you (i.e. they are not cost-effective). Remember that I am a practical person, with the learning-by-doing style of learning things. You should become familiar with your learning style and strengths, then modify any recommendations.
 
 <details>
-  <summary>Soft Skills - Project Management</summary>
+  <summary>Pathway: Project Management </summary>
   
   <details>
     <summary>Project Management - Fundamentalse </summary>
