@@ -14,6 +14,7 @@ Colour guide: For your initial start of each section first see green circle 🟢
     
   - Start with this video: [10 Project Management Terms You Need to Know (14 min) 🟢](https://www.youtube.com/watch?v=aTEK0BmsH-g)
   - Continue with this video, which talks about general PM: [Introduction to Project Management (45 min) 🟢](https://www.youtube.com/watch?v=f0kUfDLXqPE)
+  - [Project Management for Academia (30 min) 🟢](https://www.youtube.com/watch?v=sRuRNM5bE6Y)
   - And this one is so practical: [Project Management Simplified (50 min) 🔵](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
 
  To continue learning more deeply you can see the best video course on this topic by David McLachlan (strongly recommended as the only thing you should see after green dots):
@@ -41,16 +42,27 @@ Colour guide: For your initial start of each section first see green circle 🟢
 </details>
   
   <details>
-    <summary> Project Management - Widgets </summary>
-    
- - 1- Project Document: You should **store all project information in one place, and that's Google Docs** (with links to Google Sheets). Avoid using paid services or any other software, Google Apps can do all the things you want to do, and you can easily manage the access. This document is super important and should be readable and available to any project members.
+    <summary> Project Management - Widgets and Documentation </summary>
+
+
+ - 1- Project Main Document: You should **store all project information in one place, and that's Google Docs** (with links to Google Sheets). Avoid using paid services or any other software, Google Apps can do all the things you want to do, and you can easily manage the access. This document is super important and should be readable and available to any project members.
    -  [10 Best Practices for Project Management Spreadsheets (8 min) 🟢](https://www.youtube.com/watch?v=fTIupIVKbEM&t=305s)
    -  [Project Management Note-Taking Techniques(5 min) 🟢](https://www.youtube.com/watch?v=w6uciYsaJv0)
- - 2- SUPERHERO of PM, Gantt Chart or Planning Timeline: In Gantt charts, you will estimate each step of each project so that you can define deadlines, and required resources, and reflect on your progress. First, write the big phases of the project, and then break them into smaller phases. You should mention who will do this task, when (s)he will do it, and what is the satisfactory metric (when you are satisfied with the final output). It's fine to change these estimated times as the project progresses, but you should have them.
+   -  [5 Essential Project Documents (6 min) 🟢](https://www.youtube.com/watch?v=XTTN-rT_aAA)
+
+   -  In academia, **you should have at least include the following components in your main document (SUPER IMPORTANT)** :
+      - Project Charter and info: Includes information on all people involved in the project with their point of contact, roles, and responsibilities, along with their settlements (your deal on their benefit, responsibility, work process, when you should have a serious talk, and even stop working)
+      - Project Scope: the aim of the project, problem statement, and success metric
+      - Meeting notes and date
+      - Deadlines and deadline feedback (the barrier for not finishing them)
+      - A to-do list of the big picture and the person responsible for completing it (Starts with big project goals, and will break down into small tasks, you will tick the check mark for each task you complete)
+      - Project planning and timeline (Gantt chart), which is described below
+
+ - 2- SUPERHERO of PM, Gantt Chart and Planning Timeline: In Gantt charts, you will estimate each step of each project so that you can define deadlines, and required resources, and reflect on your progress. First, write the big phases of the project, and then break them into smaller phases. You should mention who will do this task, when (s)he will do it, and what is the satisfactory metric (when you are satisfied with the final output). It's fine to change these estimated times as the project progresses, but you should have them.
    - How you should define project scope (i.e. project aim in academia): [How I Plan All of My Projects (8 min) 🟢](https://www.youtube.com/watch?v=WVbFYgsV5kw)
    - [What is a Gantt Chart? (5 min) 🟢](https://www.youtube.com/watch?v=4DSV-_2pqmI&list=RDQMx6_hl3rY5KA&index=8)
    - [How to Create a Gantt Chart in Google Sheets (10 min) 🟢](https://www.youtube.com/watch?v=8eKk0M2zGIk)
-   - How you should break big, long-term project aims into small, doable, weekly tasks: [Work Breakdown Structure (5 min)](https://www.youtube.com/watch?v=BVcd9uy9kuQ&list=RDQMx6_hl3rY5KA&index=2) > [Create WBS (11 min) 🔵](https://www.youtube.com/watch?v=WwNdq2PNelQ)
+   - How you should break big, long-term project aims into small, doable, weekly tasks: [Work Breakdown Structure (5 min) 🟢](https://www.youtube.com/watch?v=BVcd9uy9kuQ&list=RDQMx6_hl3rY5KA&index=2) > [Create WBS (11 min) 🔵](https://www.youtube.com/watch?v=WwNdq2PNelQ)
  
    </details>
 
