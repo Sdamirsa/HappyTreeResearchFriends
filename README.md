@@ -3,7 +3,7 @@ Here I will store some learning contents, learning pathways, and opportunities s
 
 I will look through different contents to choose the most efficient ones. You can also find good content for each topic in the outline.
 
-Colour guide: For your initial start of each section first see green circle 🟢. You can do something after finishing green circles, and by starting early, you will learn more deeply. After some initial experience, you can continue learning blue dots 🔵, which are important but for intermediate levels, and white circles 🔘, which are optional content.
+Colour guide: For your initial start of each section first see green circle 🟢. You can do something after finishing green circles, and by starting early, you will learn more deeply. After some initial experience, you can continue learning blue dots 🔵, which are important but for intermediate levels, and white circles 🔘, which are optional content. I also provided some deep content in orange circles 🟠, but I don't believe that these things will help you (i.e. they are not cost-effective). Remember that I am a practical person, with the learning-by-doing style of learning things. You should become familiar with your learning style and strengths, then modify any recommendations.
 
 <details>
   <summary>Soft Skills - Project Management</summary>
@@ -16,7 +16,7 @@ Colour guide: For your initial start of each section first see green circle 🟢
   - And this one is so practical: [Project Management Simplified (50 min) 🟢](https://www.youtube.com/watch?v=ZKOL-rZ79gs)
     
 Continue your full learning path with this Goole course or any other book or video you can find, **but remember, you can learn it only by acting as a project manager**. To get your PM role **you need INTEREST + COMMITMENT**
-  - : [Google Full  Course on PM on YT (16 hours)](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6puLWxUtqAjZkIB4dB_JFzk) They also have [FULL Coursera (160 hours)](https://www.coursera.org/professional-certificates/google-project-management) course if you are paper-certificates fan.
+  - : [Google Full  Course on PM on YT (16 hours) 🟠](https://www.youtube.com/playlist?list=PLTZYG7bZ1u6puLWxUtqAjZkIB4dB_JFzk) They also have [FULL Coursera (160 hours) 🟠](https://www.coursera.org/professional-certificates/google-project-management) course if you are paper-certificates fan.
 </details>
 
 <details>
@@ -25,10 +25,10 @@ Continue your full learning path with this Goole course or any other book or vid
   
   - This short video can give you a grasp of PM styles: [Leadership Styles Explained Kurt Lewin 🟢](https://www.youtube.com/watch?v=RmqsV1293Rk)
   
-  My favourite PM style is [Agile Project Management (45 min)](https://www.youtube.com/watch?v=tlB-WAR0j-U) See the short video if don't have time: 
-  - [MUSTE SEE VIDEO of Agile PM for Data Projects (15 min)](https://www.youtube.com/watch?v=ERWZhMZuJfs&pp=ygUdcHJvamVjdCBtYW5hZ21lbnQgIGluIHNjaWVuY2U%3D)
+  My favourite PM style is [Agile Project Management (45 min) 🔵](https://www.youtube.com/watch?v=tlB-WAR0j-U) See the short video if don't have time: 
+  - [MUSTE SEE VIDEO of Agile PM for Data Projects (15 min) 🟢](https://www.youtube.com/watch?v=ERWZhMZuJfs&pp=ygUdcHJvamVjdCBtYW5hZ21lbnQgIGluIHNjaWVuY2U%3D)
 
-  If you are interested in the philosophy of leadership this video is one of my favourites: [Leadership Theories Top 10 🟢](https://www.youtube.com/watch?v=-S7j2ZpwExc)
+  If you are interested in the philosophy of leadership this video is one of my favourites: [Leadership Theories Top 10 (90 min) 🔵](https://www.youtube.com/watch?v=-S7j2ZpwExc)
 
 </details>
   
@@ -43,3 +43,6 @@ Continue your full learning path with this Goole course or any other book or vid
   
 
 </details>
+First version: Feb 2024
+To do: 
+Project Management Widgets - > complete widgets
