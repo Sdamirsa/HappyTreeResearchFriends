@@ -74,15 +74,19 @@ For those interested in the philosophy of leadership, consider:
 
 
 ### Project Management - Communication
+  
+  This is often regarded as the most challenging aspect of project management. While you may have mastered project definition, understanding PM fundamentals, styles, and necessary tools, success hinges on effective communication. Your ability to interact with people is paramount, drawing heavily from your life experiences and innate talent. Remember, transparency is key. Discuss potential scenarios openly with your team at the project's onset.
 
-Effective communication is paramount in project management. Strengthen your communication skills with these resources:
+  As a project manager, you'll face various challenges, such as identifying the right team members, providing constructive feedback, fostering performance improvement, and knowing when to address personnel issues. Essentially, you're not merely managing projects but regulating people dynamics.
 
-- **[Project Communications Management Overview (12 min) 🟢](https://www.youtube.com/watch?v=S2lLKYV4e6M&list=PLEWFSKHjyrwz_UKPl-jeSan5NU7RH3KRD&index=50&pp=iAQB)**
-- **[How to Give Negative Feedback Without People HATING YOU! (8 min) 🟢](https://www.youtube.com/watch?v=t44Xutg9Qjs)**
-- **[10.1 Plan Communication Management (10 min) 🔵](https://www.youtube.com/watch?v=WymBkqZNhWE&list=PLEWFSKHjyrwz_UKPl-jeSan5NU7RH3KRD&index=52)**
+  Here are some resources to enhance your communication skills:
+    
+  - [Project Communications Management Overview (12 min) 🟢](https://www.youtube.com/watch?v=S2lLKYV4e6M&list=PLEWFSKHjyrwz_UKPl-jeSan5NU7RH3KRD&index=50&pp=iAQB)
+  - [How to Give Negative Feedback Without People HATING YOU! (8 min) 🟢](https://www.youtube.com/watch?v=t44Xutg9Qjs)
+  - [10.1 Plan Communication Management (10 min) 🔵](https://www.youtube.com/watch?v=WymBkqZNhWE&list=PLEWFSKHjyrwz_UKPl-jeSan5NU7RH3KRD&index=52)
+  - [10.2 Manage Communication (10 min) 🔵](https://www.youtube.com/watch?v=JIvxuiLVz-k&list=PLEWFSKHjyrwz_UKPl-jeSan5NU7RH3KRD&index=53)
+  - [10.3 Monitor Communication (10 min) 🔵](https://www.youtube.com/watch?v=J3vxJlRDY6w&list=PLEWFSKHjyrwz_UKPl-jeSan5NU7RH3KRD&index=54)
 
-Remember, transparency and proactive communication are keys to successful project management.
 
 ---
 First version: Feb 2024  
-To do: Project Management Widgets - > Complete widgets
