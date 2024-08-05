@@ -2,7 +2,7 @@ Welcome to the Happy Tree Research Friends (HPT) community. Founded in 2020 with
 
 # Pathways
 
-### [Research Journey Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Research_Journey_Pathway_Eng.md) (English)
+### [Research Journey Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Research_Journey_Pathway_Eng.md) (ّFarsi)
 This pathway will guide you to gain basic knowledge to start your research journey. 
 
 ### [AI-as-MD Pathway (Farsi)](https://github.com/Sdamirsa/HappyTreeResearchFriends/edit/main/AI_in_Med_Pathway_Farsi.md)
