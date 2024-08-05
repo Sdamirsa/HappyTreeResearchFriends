@@ -1,10 +1,14 @@
+<div dir="rtl" style="text-align: right">
+    
 # ورژن 3.2 مسیر یادگیری کد زدن برای افرادی با بک گراند پزشکی :)
+    
 سلام ، اینجا من براتون کلیات مسیری که باید برید رو گذاشتم. دوره های خیلی زیادی هست و هر کدوم رو که دیدید، فرقی نداره، مهم اینه که این چیزایی که نوشته شده رو یادبگیرید و برید مرحله بعدی.
+
 ### 1: نصب پایتون و آناکندا و یادگرفتن اینکه ویرچوال اینوایرمنت چیه و جایی که توش کد میزنید یعنی وی اس کد
 
 ```mermaid
 graph TD
-    subgraph Setup_Env
+    subgraph Setup_Env[شروع آماده کردن پایتون و شما برای پایتون]
         direction TB
         Anaconda[<a href="https://freelearning.anaconda.cloud/get-started-with-anaconda">Anaconda and Virtual Environment Importance</a>]
         VSCode[<a href="https://www.youtube.com/watch?v=B-s71n0dHUk">VS Code Tour</a>]
@@ -16,9 +20,16 @@ graph TD
 ```
 
 ### 2: سقوط آزاد در کد زدن
+Here are your hyperlinks formatted in Markdown:
+
+اول دیتا آنالیست ([Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python)) + در حین این پروژه بهتره کورس منطق کد زدن ([MIT course](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)) هم ببینید بعد یک پروژه آنالیز یا بازی با یک دیتا انجام بدید که تو ذهنتون ماندگار بشه. میتونید از خود datacamp پروژه هاشو انجام بدید ، از من یه کار کوچیم بگیرید. یا اگر تو خودتون میبینید، یه پروژه انجام بدید که یه پیپیرم معمولی بشه.
+
+
+
+
 ```mermaid
 graph TD
-    subgraph Code_Path
+    subgraph Code_Path[مسیر کد زدن]
         direction TB
         DataAnalysis[<a href="https://www.datacamp.com/tracks/data-analyst-with-python">اول دیتا آنالیست</a>]
         LogicCourse[<a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA">کورس منطق کد زدن ام آی تی</a>]
@@ -42,7 +53,12 @@ graph TD
 ```
 
 ### 3: منطق یادگیری ماشین
+ ادامه مسیر کد برای ماشین لرنینگ: بعد ماشین لرنینگ ([Machine Learning Scientist with Python](https://www.datacamp.com/tracks/machine-learning-scientist-with-python)) ببینید و بعد هم باز یه پروژه ML کوچیک انجام بدید. کلی دیتای آنلاین وجود داره که میشه باهاش کارای خفن کرد. بگردید. یک پیش نیازی داره یادگرفتن این ML و مدل ها اون جبر خطی هست. من این دوتارو پیدا کردم ولی خب هر چی دیدید اوکیه. [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [Linear Algebra - Full College Course](https://www.youtube.com/watch?v=JnTa9XtvmfI), کورس  Machine Learning for Healthcare MIT ([Machine Learning for Healthcare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)) این کمتر ریاضیه، کورس ریاضی پشت مدل ها  Stanford:  Andrew NG ([Andrew NG's course](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=uqVtGLVlx0QjYVHW)) این ریاضیه ولی حداقل چیزیه که باید بدونید. اگر جایی رو نفهمدید اوکیه.
 
+یه سری ویدیو که زود میتونه کل موضوع ها رو بگه (برای روزای اول خوبه که سریع با کانسپتا آشنا بشید:
+2 تا ویدیو از دوره ای که من گفتم به نام MLasMD  پارت 1 ([MLasMD Part 1](https://youtu.be/o0tXqGfKFf4)) و پارت 2, 4 تا ویدیو making friends with Machine Learning (MFML) ([MFML series](https://youtube.com/playlist?list=PLRKtJ4IpxJpB_2ei8-5eWU31EZ6uSj9_s&si=550kUZ8RAIROjCCW))که کلا میتونید اصلا این رو به عنوان اولین کور ببینید و خیلی ویدیو خوبی هست این هم.
+
+از اینجا به بعد خودتون میتونید یاد بگیرید. یعنی باید تو این مسیر با این سر نخا بتونید یادبگیرید که تنهایی یادبگیرید. هر چی دیدی خوبه و اصولا دیگه باید تو پروژه برید یاد بگیرید. ولی خب از اینجای خیلی چند شاخه میشه و فیلد به فیلد متفاوته و تخصصیه. من  2 شاخه ماشین ویژن و LLM رو یکم مینویسم.
 
 ```mermaid
 graph TD
@@ -78,3 +94,70 @@ An Introduction to Statistical Learning]
 
         Book-->SelfLearning[تموم کردن مسیر کد و انجام یک پروژه]
 ```
+
+### شاخه ویژن: 
+من ویژن رو با انجام پروژه یاد گرفتم واسه همین خیلی سورس خاصی نمیدونم بگم. میدونم یه سری کتاب خیلی خوب هست. ولی این بینایی ماشین با OpenCV ([Machine Vision with OpenCV](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A8%DB%8C%D8%AF%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-opencv-mk1664/)) تو مکتب خونه خوب بود و الزامی. الان دیدم یک مسیر بینایی ماشین ([Machine Vision Path](https://maktabkhooneh.org/career/%D8%AA%D8%AE%D8%B5%D8%B5-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk42/)) هم داره که به نظرم منطقی میاد که از صفر تا صد برید تو ویژن خیلیییی کامله.
+
+اینارو هم حتما ببینید:
+[Preparing medical imaging data for machine learning](https://www.youtube.com/watch?v=9Ga9pn9M-MQ)
+[Dicom In Python](https://www.youtube.com/watch?v=To7v7i7eB0A&t=1191s)
+
+```mermaid
+graph TD
+    subgraph Vision_Branch["شاخه ماشین ویژن"]
+        direction TB
+
+        OpenCV_Course[<a href="https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-opencv-mk1664/">بینایی ماشین با 
+        OpenCV</a>]
+        Vision_Path[<a href="https://maktabkhooneh.org/career/%D8%AA%D8%AE%D8%B5%D8%B5-%D8%A8%DB%8C%D9%86%D8%A7%DB%8C%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk42/"> مسیر بینایی ماشین در مکتب خونه</a>]
+        MedImagePrep[<a href="https://www.youtube.com/watch?v=9Ga9pn9M-MQ">Preparing Medical Imaging Data for Machine Learning</a>]
+        DicomPython[<a href="https://www.youtube.com/watch?v=To7v7i7eB0A&t=1191s">Dicom In Python</a>]
+
+        OpenCV_Course --> Vision_Path
+        Vision_Path --> MedImagePrep
+        Vision_Path --> DicomPython
+    end
+```
+
+### شاخه Large Language Model (LLM): 
+```mermaid
+graph TD
+    subgraph LLM_Play_Path[" مسیر بازی با مدل های زبانی"]
+        direction TB
+        ChatGPTWorks[<a href="https://www.youtube.com/watch?v=bSvTVREwSNw">چگونگی کارکرد ChatGPT</a>]
+        IntroLargeModels[<a href="https://www.youtube.com/watch?v=zjkBMFhNj_g">معرفی به مدل‌های زبان بزرگ</a>]
+        LearnOpenAI[<a href="https://www.youtube.com/watch?v=pGOyw_M1mNE">یادگیری OpenAI</a>]
+        OpenAIAPITutorials[<a href="https://youtube.com/playlist?list=PLpdmBGJ6ELUIYHjmzYTuePlNRf7yeCACz&si=AmEna2NY_Ckzl5KD">آموزش‌های API OpenAI</a>]
+        PromptEngineering[<a href="https://www.youtube.com/watch?v=_ZvnD73m40o&pp=ygUfaW50cm9kdWN0aW9uIHRvIGxsbSBhbmQgY2hhdGdweQ%3D%3D">مهندسی پرامپت</a>]
+        ToolsSimplification[ابزارهای تسهیل‌کننده کار]
+        LangChainTool[<a href="https://www.youtube.com/playlist?list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS">کار با LangChain</a>]
+        RAGLlama[<a href="https://youtube.com/playlist?list=PLVEEucA9MYhNrD8TBI5UqM6WHPUlVv89w&si=0VD5DzeTZ0ztxcWa">کار با RAG + llama-index</a>]
+        FullProduction[<a href="https://www.youtube.com/watch?v=dXxQ0LR-3Hg&pp=ygULbGxhbWEgaW5kZXg%3D">فول پروداکشن</a>]
+        AdvancedLLM[فاین تیونینگ : دیگه خودتون کیتونید پیدا کنید  ]
+
+        IntroLargeModels --> LearnOpenAI
+        LearnOpenAI --> OpenAIAPITutorials
+        OpenAIAPITutorials --> PromptEngineering
+        PromptEngineering --> ToolsSimplification
+        ToolsSimplification --> LangChainTool
+        ToolsSimplification --> RAGLlama
+        RAGLlama --> FullProduction
+        LangChainTool --> FullProduction
+        FullProduction --> AdvancedLLM
+
+    end
+```
+
+### شاخه Deep Learning خفن:
+loading... (dorost mikonam badan)
+
+### شاخه مدل های زمانی:
+loading... (dorost mikonam badan)
+
+### اکانت هایی که تو این مسیر باید بخرید
+اکانت چت جی پی تی از [نامبر لند](https://numberland.ir/account/openai) برای پرسیدن سوالاتون و کمک گرفتن تو یادگیری (3.5 کافیه ولی اگر کار زیاد دارید 4 میارزه 2 تومن)
+اکانت وی پی انی v2ray از [نت شکن](https://nshekan.com/)
+اکانت دیتاکمپ از [لایسنس مارکت ](https://license-market.ir/product/DataCamp) (واقعا نمیدونم میارزه اکانت روی ایمیل خودتون یا نه :)
+</div>
+
+[Last Update: 2024-07-01]
