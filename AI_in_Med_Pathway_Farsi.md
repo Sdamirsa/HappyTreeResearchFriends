@@ -168,6 +168,9 @@ graph TD
 ### شاخه Deep Learning خفن:
 loading... (dorost mikonam badan)
 
+### شاخه Multi-Task Learning: 
+loading... (dorost mikonam badan)
+
 ### شاخه مدل های زمانی:
 loading... (dorost mikonam badan)
 
