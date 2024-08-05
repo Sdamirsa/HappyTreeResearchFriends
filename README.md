@@ -18,12 +18,35 @@ This section is created for my team. You may want to use it, however.
 ### [Project Management Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Pathway_Project_Management.md)
 ### [Instructions for my dear team](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Instruction4myTeam.md)
 
-# 4me To-Do
-- AI as (bio)medical student
-  [] Prepare English version of AI for biomedical students
-  [] Add Computational Biology to AI as (bio)medical student
-  [] Add predictive modeling and DL component
-  [] Add time-series modelling
 
 # FAQ :) 
 - Why Happy Tree (Research) Friends? [Answer](https://www.youtube.com/watch?v=cN7XXLyb1Fo)
+
+<details>
+<summary>My To-Do List</summary>
+- AI as (bio)medical student
+  [] Prepare English version of AI for biomedical students
+  
+  [] Add Computational Biology to AI as (bio)medical student
+  
+  [] Add predictive modeling and DL component
+  
+  [] Add time-series modelling
+  
+- A note to my dear younger peers: What are your options in life
+  
+  [X] Note on the structure
+  
+  [] Record the video
+
+- A note to my dear younger peers: How to study medicine during externship and internship
+  
+  [] Note on the structure
+  
+  [] Get the opinions of 5 people
+  
+  [] Create the content
+  
+  [] Publish as md
+</details>
+
