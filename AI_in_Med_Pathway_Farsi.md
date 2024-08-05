@@ -58,7 +58,7 @@ graph TD
 یه سری ویدیو که زود میتونه کل موضوع ها رو بگه (برای روزای اول خوبه که سریع با کانسپتا آشنا بشید:
 2 تا ویدیو از دوره ای که من گفتم به نام MLasMD  پارت 1 ([MLasMD Part 1](https://youtu.be/o0tXqGfKFf4)) و پارت 2, 4 تا ویدیو making friends with Machine Learning (MFML) ([MFML series](https://youtube.com/playlist?list=PLRKtJ4IpxJpB_2ei8-5eWU31EZ6uSj9_s&si=550kUZ8RAIROjCCW))که کلا میتونید اصلا این رو به عنوان اولین کور ببینید و خیلی ویدیو خوبی هست این هم.
 
-از اینجا به بعد خودتون میتونید یاد بگیرید. یعنی باید تو این مسیر با این سر نخا بتونید یادبگیرید که تنهایی یادبگیرید. هر چی دیدی خوبه و اصولا دیگه باید تو پروژه برید یاد بگیرید. ولی خب از اینجای خیلی چند شاخه میشه و فیلد به فیلد متفاوته و تخصصیه. من  2 شاخه ماشین ویژن و LLM رو یکم مینویسم.
+از اینجا به بعد خودتون میتونید یاد بگیرید. یعنی باید تو این مسیر با این سر نخا بتونید یادبگیرید که تنهایی یادبگیرید. هر چی دیدی خوبه و اصولا دیگه باید تو پروژه برید یاد بگیرید. ولی خب از اینجای خیلی چند شاخه میشه و فیلد به فیلد متفاوته و تخصصیه. من  2 شاخه ماشین ویژن و LLM رو یکم مینویسم. (دو شاخه ی Deep learning و داینامیک مدل ها که با سری زمانی کار میکنن رو هم بعدا اضافه میکنم)
 
 ```mermaid
 graph TD
@@ -120,6 +120,23 @@ graph TD
 ```
 
 ### شاخه Large Language Model (LLM): 
+
+بعد از یادگرفتن کد (مسیر کد) میتونید حتی بدون دیدن ماشین لرنینگ (یعنی فقط ا دیتا آنالیست ([Data Analyst with Python](https://www.datacamp.com/tracks/data-analyst-with-python)) + کورس منطق کد زدن ([Coding Logic course](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA))) میتونید شروع کنید به LLM بازی. میگم بازی چون اونقدر عمیق نیست اینا ، برای عمیق شدن توی LLM نزدیک 1 سال زمان میبره و فیلد گنده و سختیه. بهتره این ویدیوهای کوتاه رو ببینید که یک ایده کلی داشته باشید از کانسپتاش: 
+[How ChatGPT Works Technically](https://www.youtube.com/watch?v=bSvTVREwSNw),
+[1hr Talk] Intro to Large Language Models ([Intro to LLMs](https://www.youtube.com/watch?v=zjkBMFhNj_g)).
+
+اول از همه که خود openai رو یاد بگیرید با این ویدیو ([Learn OpenAI](https://www.youtube.com/watch?v=pGOyw_M1mNE)) یه هر چیز دیگه تو یوتیوب پیدا کردید. همیشه لازم و اغلب کافیه. برای اینکه چیزای دیگه رو یادبگیرید که چجوری میشه از این استفاده کرد این لیست رو ببینید OpenAI API Tutorials ([API Tutorials](https://youtube.com/playlist?list=PLpdmBGJ6ELUIYHjmzYTuePlNRf7yeCACz&si=AmEna2NY_Ckzl5KD)). یادتون نره prompt خیلی مهمه و این ویدیو prompt enginerring ([Prompt Engineering](https://www.youtube.com/watch?v=_ZvnD73m40o&pp=ygUfaW50cm9kdWN0aW9uIHRvIGxsbSBhbmQgY2hhdGdweQ%3D%3D)) خوبه.
+
+دو تای ماژول هستن که میان کار رو راحت میکنن ، پیشنهاد من LangChain هست. جفتشون مشابه هم هستن. 
+برای کار با LangChain ([LangChain playlist](https://www.youtube.com/playlist?list=PL8motc6AQftn-X1HkaGG9KjmKtWImCKJS))
+یا
+برای کار با RAG + llama-index ([RAG + llama-index playlist](https://youtube.com/playlist?list=PLVEEucA9MYhNrD8TBI5UqM6WHPUlVv89w&si=0VD5DzeTZ0ztxcWa)).
+
+بعدش برای فول پروداکشن ([Full Production](https://www.youtube.com/watch?v=dXxQ0LR-3Hg&pp=ygULbGxhbWEgaW5kZXg%3D)) میتونید این رو ببیینید و همزمان برای یه کاری که دوست دارید اپ درست کنید یا کد بزنید.
+
+از اینجا برید جلو تر باید fine-tune کردن و training این LLM هارو یادبگیرید و hugginface.
+
+
 ```mermaid
 graph TD
     subgraph LLM_Play_Path[" مسیر بازی با مدل های زبانی"]
@@ -156,7 +173,9 @@ loading... (dorost mikonam badan)
 
 ### اکانت هایی که تو این مسیر باید بخرید
 اکانت چت جی پی تی از [نامبر لند](https://numberland.ir/account/openai) برای پرسیدن سوالاتون و کمک گرفتن تو یادگیری (3.5 کافیه ولی اگر کار زیاد دارید 4 میارزه 2 تومن)
+
 اکانت وی پی انی v2ray از [نت شکن](https://nshekan.com/)
+
 اکانت دیتاکمپ از [لایسنس مارکت ](https://license-market.ir/product/DataCamp) (واقعا نمیدونم میارزه اکانت روی ایمیل خودتون یا نه :)
 </div>
 
