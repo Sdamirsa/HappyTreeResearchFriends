@@ -1,4 +1,4 @@
-Welcome to the Happy Tree Research Friends (HPT) community. Founded three years ago with my mentee and friends, Happy Tree Research Friends is a collaborative group that facilitates continuous learning and growth. It would be great if you could modify and/or complete these pathways. Feel free to share it in any format you like without or with my name.
+Welcome to the Happy Tree Research Friends (HPT) community. Founded in 2020 with my mentee and friends, Happy Tree Research Friends is a collaborative group that facilitates continuous learning and growth. It would be great if you could modify and/or complete these pathways. Feel free to share it in any format you like without or with my name.
 
 # Pathways
 ### Start your Research Journey
