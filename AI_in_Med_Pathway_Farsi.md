@@ -60,7 +60,9 @@ graph TD
         MLasMD2[<a href="https://youtu.be/i2uYaVh9LSc">MLasMD 2 by me</a>]
         MakingFriends[<a href="https://youtube.com/playlist?list=PLRKtJ4IpxJpB_2ei8-5eWU31EZ6uSj9_s&si=550kUZ8RAIROjCCW">دوستی با ماشین‌لرنینگ</a>]
         Book[شبا قبل خواب
-        Hands on Machine Learning with Python]
+        Hands on Machine Learning with Python
+یا
+An Introduction to Statistical Learning]
     end
 
         Essence -->|اگر نیاز داشتید | FullCourse
