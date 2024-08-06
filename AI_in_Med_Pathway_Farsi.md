@@ -184,12 +184,11 @@ loading... (dorost mikonam badan)
 اکانت دیتاکمپ از [لایسنس مارکت ](https://license-market.ir/product/DataCamp) (واقعا نمیدونم میارزه اکانت روی ایمیل خودتون یا نه :)
 </div>
 
-[Last Update: 2024-07-01]
+_______________ 
 ```
+[Last Update: 2024-07-01]
 # Note for me:
 On the next update add these materials:
-Ina vaghan dore haye khobian
-
 ```
 
 ### دوره هایی که توی ورژن بعدی باید ادد کنم
