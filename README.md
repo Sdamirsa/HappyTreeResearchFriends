@@ -10,14 +10,14 @@ This pathway aims to facilitate your programming journey and learning machine le
 
 ### MD+US Pathway (Farsi)
 (Send me a message in [Telegram](https://www.t.me/sdamirsa), with a brief intro about yourself)
-A list of all resources which is helpful on your MD+US path. 
+A list of all resources which is helpful on your MD+US path.
+
+### [Project Management Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Pathway_Project_Management.md)
 
 # 4my Team
 
 This section is created for my team. You may want to use it, however.
-### [Project Management Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Pathway_Project_Management.md)
 ### [Instructions for my dear team](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Instruction4myTeam.md)
-### Project Workflow Sheet: [INSTRUCTION on how to use it](https://youtu.be/BpUohnBkef8) + Link [to Template](https://docs.google.com/spreadsheets/d/1M8X83P9wy4CtMqQnjoKmNLz-UjaZCCkEaZoUSdQRaYE/edit?usp=sharing)
 
 # FAQ :) 
 - Why Happy Tree (Research) Friends? [Answer](https://www.youtube.com/watch?v=cN7XXLyb1Fo)
