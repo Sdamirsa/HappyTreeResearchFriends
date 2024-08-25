@@ -78,7 +78,7 @@ graph TD
         StanfordML[<a href="https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&si=uqVtGLVlx0QjYVHW">ریاضیات پشت مدل‌ها: کورس اندرو ان‌جی</a>]
         QuickIntro[معرفی سریع کانسپت‌ها]
         MLasMD1[<a href="https://youtu.be/i2uYaVh9LSc">MLasMD 1 by me</a>]
-        MLasMD2[<a href="https://youtu.be/i2uYaVh9LSc">MLasMD 2 by me</a>]
+        MLasMD2[<a href="https://youtu.be/HbV8EUfUPjQ">MLasMD 2 by me</a>]
         MakingFriends[<a href="https://youtube.com/playlist?list=PLRKtJ4IpxJpB_2ei8-5eWU31EZ6uSj9_s&si=550kUZ8RAIROjCCW">دوستی با ماشین‌لرنینگ</a>]
         Book[شبا قبل خواب
         Hands on Machine Learning with Python
