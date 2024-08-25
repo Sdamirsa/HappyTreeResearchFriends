@@ -79,6 +79,7 @@ graph TD
         QuickIntro[معرفی سریع کانسپت‌ها]
         MLasMD1[<a href="https://youtu.be/i2uYaVh9LSc">MLasMD 1 by me</a>]
         MLasMD2[<a href="https://youtu.be/HbV8EUfUPjQ">MLasMD 2 by me</a>]
+        MIThealthcare[<a href="https://youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j&si=8BvIuQwVi3Wyr1u_">MIT 6.S897 Machine Learning for Healthcare</a>]
         MakingFriends[<a href="https://youtube.com/playlist?list=PLRKtJ4IpxJpB_2ei8-5eWU31EZ6uSj9_s&si=550kUZ8RAIROjCCW">دوستی با ماشین‌لرنینگ</a>]
         Book[شبا قبل خواب
         Hands on Machine Learning with Python
