@@ -1,15 +1,13 @@
 Here, you can find the content and instructions for our workflow. 
 
-## Workflows
-<details>
-<summary>Setting Ground for Teamwork (Workflow)</summary>
+## Setting Ground for Teamwork (Workflow)
   
 [Link to Content](https://amirsafavi.com/index.php/setting-ground-for-teamwork/)
-</details>
 
-## Instructions
-<details>
-<summary>Using Microsoft Word Online  </summary>
-  
+## Instructions: Using Microsoft Word Online for Manuscripts
+
 [Link to Content](https://youtu.be/SaybuuZFAQY)
-</details>
+
+## Instruction: 2024 Workflow Sheet
+
+[INSTRUCTION on how to use it](https://youtu.be/BpUohnBkef8) + Link [to Template](https://docs.google.com/spreadsheets/d/1M8X83P9wy4CtMqQnjoKmNLz-UjaZCCkEaZoUSdQRaYE/edit?usp=sharing)
