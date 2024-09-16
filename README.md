@@ -12,6 +12,8 @@ This pathway aims to facilitate your programming journey and learning machine le
 (Send me a message in [Telegram](https://www.t.me/sdamirsa), with a brief intro about yourself)
 A list of all resources which is helpful on your MD+US path.
 
+### [Self-Authorship-Blueprint](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Self-Authorship-Blueprint.md)
+
 ### [Project Management Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Pathway_Project_Management.md)
 
 # 4my Team
