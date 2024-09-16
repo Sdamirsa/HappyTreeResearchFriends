@@ -55,6 +55,3 @@ Decision-making is a common challenge for my mentees, so this guide will introdu
 - [How to pick your perfect Career](https://www.youtube.com/watch?v=moQnoSYPMmY&pp=ygUWaG93IHRvIHNlbGVjdCB5b3VyIGpvYg%3D%3D)
 - [How to select your future job](https://www.youtube.com/watch?v=RTe17N_g-_c)
 
-### How to find the country you want to live in
-
-
