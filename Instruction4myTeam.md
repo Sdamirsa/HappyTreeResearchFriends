@@ -16,3 +16,15 @@ Here, you can find the content and instructions for our workflow.
 [Link to instructional video](https://youtu.be/xeVTexVQJUQ)
 
 [Link to template](https://docs.google.com/spreadsheets/d/1GS7O6SNVN0OZst5bv8GcnmHsNT7tcc6wup2RV0b4NtE/edit?usp=sharing)
+
+## ⚠️🔴⚠️ The platform for writing articles 
+
+The platforms for writing and sharing articles are:
+
+- MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline)
+
+- Googl Docs + ZOTERO for ref --> online
+
+- Latex on overleaf
+
+All figures should be in PDF format or editable format (like canva links) + PNG/JPEG
