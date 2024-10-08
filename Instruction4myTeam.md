@@ -14,4 +14,5 @@ Here, you can find the content and instructions for our workflow.
 
 ## Sheety Tracker: A G Sheet solution for Tusk project tracking
 [Link to instructional video](https://youtu.be/xeVTexVQJUQ)
+
 [Link to template](https://docs.google.com/spreadsheets/d/1GS7O6SNVN0OZst5bv8GcnmHsNT7tcc6wup2RV0b4NtE/edit?usp=sharing)
