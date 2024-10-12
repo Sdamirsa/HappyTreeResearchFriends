@@ -1,16 +1,16 @@
 # REALLY GOOD STUFF for LLMs
 
-Suggested pathway
-![suggested pathway](https://res.cloudinary.com/dlqbikbis/image/upload/v1728729376/Week1_izy02a.png)
 
-```
-Colour Guide
-🔵Week 1
-🟣Week 2
-🟠Week 3
-🔴Must-see (advanced)
-⚫optional, for specific use
-```
+This pathway is designed to guide learners through the essentials of Large Language Models (LLMs), from beginner to advanced levels, with a mix of theoretical concepts and practical coding. It is organized by weeks, with color codes to signify progression:
+Suggested pathway
+![](https://res.cloudinary.com/dlqbikbis/image/upload/v1728729376/Week1_izy02a.png)
+
+🔵 Week 1: Foundational concepts
+🟣 Week 2: Intermediate topics
+🟠 Week 3: Advanced techniques
+🔴 Must-see (advanced topics)
+⚫ Optional, specialized content
+Starting with a beginner's introduction, you can move into hands-on coding with Langchain, explore structured output with Pydantic, and dive into evaluation methods. The pathway also covers in-context learning, Retrieval-Augmented Generation (RAG), and running LLMs locally, concluding with advanced and optional materials for those who want to go deeper. An alternative pathway includes additional YouTube playlists, books, and courses for further learning.
 
 
 <details>
