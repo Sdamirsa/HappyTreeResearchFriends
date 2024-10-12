@@ -2,13 +2,14 @@ Welcome to the Happy Tree Research Friends (HPT) community. Founded in 2020 with
 
 # Pathways
 
-### [Research Journey Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Research_Journey_Pathway_Eng.md) (ّFarsi)
+### [Research Journey Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Research_Journey_Pathway_Eng.md) (Farsi)
 This pathway will guide you to gain basic knowledge to start your research journey. 
 
 ### [AI-as-MD Pathway (Farsi)](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/AI_in_Med_Pathway_Farsi.md)
 This pathway aims to facilitate your programming journey and learning machine learning logic, and perhaps, start your first project. 
 
 ### [LLM learning pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/LLM-learning-path.md)
+This pathway is designed to guide learners through the essentials of LLMs, from beginner to advanced levels, with a mix of theoretical concepts and practical coding.
 
 ### MD+US Pathway (Farsi)
 (Send me a message in [Telegram](https://www.t.me/sdamirsa), with a brief intro about yourself)
