@@ -8,7 +8,7 @@ This pathway will guide you to gain basic knowledge to start your research journ
 ### [AI-as-MD Pathway (Farsi)](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/AI_in_Med_Pathway_Farsi.md)
 This pathway aims to facilitate your programming journey and learning machine learning logic, and perhaps, start your first project. 
 
-### [LLM learning pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/LLM-learning-path.md)
+### [LLM learning pathway (Eng)](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/LLM-learning-path.md)
 This pathway is designed to guide learners through the essentials of LLMs, from beginner to advanced levels, with a mix of theoretical concepts and practical coding.
 
 ### MD+US Pathway (Farsi)
