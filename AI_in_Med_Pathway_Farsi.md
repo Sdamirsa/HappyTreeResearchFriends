@@ -205,35 +205,80 @@ On the next update add these materials:
   - دوره مکتب خونه آموزش [رایگان تحلیل تصویر پزشکی بازم توسط استاد رهبان](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%B2%DB%8C%D8%B3%D8%AA-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-mk1070/) که از خفنای ماشین ویژن هستن
   - دوره مکتب خونه [آموزش رایگان یادگیری تقویتی](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%AA%D9%82%D9%88%DB%8C%D8%AA%DB%8C-mk3046/)
  ---------
-Storage of good stuff about LLMs
+# REALLY GOOD STUFF for LLMs
 <details>
-  <summary>LLMs</summary>
+<summary>LLMs</summary>
+
+
+<details>
+<summary>Start</summary>
     
-  <details>
-  <summary>Start</summary>
-      - [Langchain playlist ](https://www.youtube.com/playlist?list=PL4HikwTaYE0GEs7lvlYJQcvKhq0QZGRVn)
-  </details>
+⚫ [Langchain playlist - fast](https://www.youtube.com/playlist?list=PL4HikwTaYE0GEs7lvlYJQcvKhq0QZGRVn)
 
-  <details>
-  <summary>Structured Output</summary>
-      - [w Pydantic](https://youtu.be/UVn2NroKQCw?si=fJArCi6DxE6bY5FR)
-      
-  </details>
-    
-  <details>
-  <summary>evaluation</summary>
-      - https://www.youtube.com/watch?v=iQl03pQlYWY&list=PLkm_s7m1D-JjHBuIGOJQTnAlLNRM-0Dh0&index=1
-      - https://www.youtube.com/watch?v=tFXm5ijih98&t=861s
-      - https://www.youtube.com/watch?v=8qRGP2hhnSc
-      - [Langsmith](https://youtu.be/tFXm5ijih98?si=Q7iqiMHChrOmmL4t)
-  </details>
+⚫ [Langchain - master class](https://youtu.be/yF9kGESAi3M?si=RI84A5D4pwFY-Em2)
 
-
-    <details>
-  <summary>In-context learning (fine-tune)</summary>
-      - [Llama3](https://youtu.be/aQmoog_s8HE?si=H1VpwBKhfZ5o90qt)
-      - [BERT](https://www.youtube.com/watch?v=9he4XKqqzvE)
-  </details>
-  
 </details>
 
+<details>
+<summary>Structured Output</summary>
+    
+⚫ [w Pydantic](https://youtu.be/UVn2NroKQCw?si=fJArCi6DxE6bY5FR)
+
+⚫ [Optional: JSONformer](https://youtu.be/hpMCvfIIM_A?si=cZuYfZk7Y87Ww4Qm)
+
+</details>
+    
+<details>
+<summary>evaluation</summary>
+    
+⚫ [Deep dive evaluation](https://www.youtube.com/watch?v=iQl03pQlYWY&list=PLkm_s7m1D-JjHBuIGOJQTnAlLNRM-0Dh0&index=1)
+
+⚫ [QA evaluation](https://youtu.be/8qRGP2hhnSc?si=1WmJK8Ii2bA-zZXG)
+
+⚫ [Langsmith](https://youtu.be/tFXm5ijih98?si=Q7iqiMHChrOmmL4t)
+
+</details>
+
+<details>
+<summary>In-context learning (fine-tune)</summary>
+
+⚫ [Llama3.2 + Ollama](https://youtu.be/YZW3pkIR-YE?si=1YkCskOoy5LsU-n4)
+    
+⚫ [Llama3](https://youtu.be/aQmoog_s8HE?si=H1VpwBKhfZ5o90qt)
+    
+⚫ [BERT](https://www.youtube.com/watch?v=9he4XKqqzvE)
+
+    
+</details>
+
+<details>
+<summary>RAG </summary>
+
+⚫ [All about RAG (must see)](https://youtu.be/sVcwVQRHIc8?si=HECDoO64-eSOB_pK)
+
+⚫ [Multimodal RAG + Langchain + GPT4V](https://youtu.be/-77EvEjuZJY?si=s7QBP70iN8UWPhS0)
+
+    
+</details>
+
+<details>
+<summary>Advanced - musT </summary>
+
+⚫ [Using Huggingface Transformer library  ](https://youtu.be/ntz160EnWIc?si=ipYAciAhtjDcWfXr) 
+
+⚫ [Groq API](https://youtu.be/S53BanCP14c?si=6hOoVjc21F7UOZff)
+
+</details>
+
+<details>
+<summary>Advanced - optional </summary>
+    
+⚫ [RAG + Ollama + n8n](https://youtu.be/2orxyu8c7Ek?si=9OLoMWv005L_6vYf)
+    
+⚫ [Langflow (UI for creating RAG)](https://youtu.be/rz40ukZ3krQ?si=1AXvhuiIcpPuMDKC)
+
+</details>
+
+
+  
+</details>
