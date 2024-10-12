@@ -2,22 +2,23 @@ Welcome to the Happy Tree Research Friends (HPT) community. Founded in 2020 with
 
 # Pathways
 
-### [Research Journey Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Research_Journey_Pathway_Eng.md) (Farsi)
-This pathway will guide you to gain basic knowledge to start your research journey. 
+### [Self-Authorship-Blueprint (Eng)](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Self-Authorship-Blueprint.md)
+
+### [Project Management Pathway (Eng)](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Pathway_Project_Management.md)
+
+### [LLM learning pathway (Eng)](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/LLM-learning-path.md)
+This pathway is designed to guide learners through the essentials of LLMs, from beginner to advanced levels, with a mix of theoretical concepts and practical coding.
 
 ### [AI-as-MD Pathway (Farsi)](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/AI_in_Med_Pathway_Farsi.md)
 This pathway aims to facilitate your programming journey and learning machine learning logic, and perhaps, start your first project. 
 
-### [LLM learning pathway (Eng)](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/LLM-learning-path.md)
-This pathway is designed to guide learners through the essentials of LLMs, from beginner to advanced levels, with a mix of theoretical concepts and practical coding.
+### [Research Journey Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Research_Journey_Pathway_Eng.md) (Farsi)
+This pathway will guide you to gain basic knowledge to start your research journey. 
 
 ### MD+US Pathway (Farsi)
 (Send me a message in [Telegram](https://www.t.me/sdamirsa), with a brief intro about yourself)
 A list of all resources which is helpful on your MD+US path.
 
-### [Self-Authorship-Blueprint](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Self-Authorship-Blueprint.md)
-
-### [Project Management Pathway](https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Pathway_Project_Management.md)
 
 # 4my Team
 
