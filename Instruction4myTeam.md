@@ -4,10 +4,6 @@ Here, you can find the content and instructions for our workflow.
   
 [Link to Content](https://amirsafavi.com/index.php/setting-ground-for-teamwork/)
 
-## Instructions: Using Microsoft Word Online for Manuscripts
-
-[Link to Content](https://youtu.be/SaybuuZFAQY)
-
 ## Instruction: 2024 Workflow Sheet
 
 [INSTRUCTION on how to use it](https://youtu.be/BpUohnBkef8) + Link [to Template](https://docs.google.com/spreadsheets/d/1M8X83P9wy4CtMqQnjoKmNLz-UjaZCCkEaZoUSdQRaYE/edit?usp=sharing)
@@ -21,9 +17,10 @@ Here, you can find the content and instructions for our workflow.
 
 The platforms for writing and sharing articles are:
 
-- MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline)
+- ~MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline): [Link to Content](https://youtu.be/SaybuuZFAQY)~
 
-- Googl Docs + ZOTERO for ref --> online
+- ✅ Googl Docs + ZOTERO for ref :
+  - [How to use ZOTERO on G Doc](https://youtu.be/Oa7BNdxQ3D0)
 
 - Latex on overleaf
 
