@@ -22,6 +22,7 @@ The platforms for writing and sharing articles are:
 - ✅ Googl Docs + ZOTERO for ref :
   - [How to use ZOTERO on G Doc](https://youtu.be/Oa7BNdxQ3D0)
   - [Paper Template](https://docs.google.com/document/d/1-354Noq7w6XHkuHWNvT-OBYXZ5XK_1OfnQkxkq5lLpc/edit?usp=sharing) (you can copy and rename this)
+  - [Use G doc as app in windows](https://www.youtube.com/watch?v=zRLIOT1QEuE)
 
 - Latex on overleaf
 
