@@ -106,6 +106,25 @@ Then you can go to each section, as you need, and do something on your PC. Nothi
 </details>
 
 <details>
+<summary>Advanced - musT - Agentic </summary>
+
+🔴 Agentic Design of LLMs
+
+- https://developer.nvidia.com/blog/introduction-to-llm-agents/
+
+- https://www.superannotate.com/blog/llm-agents
+
+- https://www.promptingguide.ai/research/llm-agents
+
+- https://www.truefoundry.com/blog/llm-agents
+
+- https://towardsdatascience.com/intro-to-llm-agents-with-langchain-when-rag-is-not-enough-7d8c08145834
+
+
+
+</details>
+
+<details>
 <summary>Advanced - optional </summary>
     
 ⚫ [RAG + Ollama + n8n](https://youtu.be/2orxyu8c7Ek?si=9OLoMWv005L_6vYf)
