@@ -1,13 +1,14 @@
-Here, you can find instruction for working together. 
+Here, you can find instructions for working together. 
 
 > Index:
 > 
 > 1- [How we work together, communicate, set deadlines, and resolve conflicts](https://github.com/Sdamirsa/HappyTreeResearchFriends/edit/main/Instruction4myTeam.md#setting-ground-for-teamwork-workflow)
 >
 > 2- [How we work together to write papers](https://github.com/Sdamirsa/HappyTreeResearchFriends/edit/main/Instruction4myTeam.md#%EF%B8%8F%EF%B8%8F-our-unified-system-for-manuscripts)
->
+> 
 > 3- \[for tusks] How we monitor your projects, tasks, and timelines
-
+>
+> 4- Instructions: submit to arxiv
 
 ## 1. Setting Ground for Teamwork (Workflow)
   
@@ -34,12 +35,15 @@ Writing papers is hard, collaboration is even harder, and you can imagine the re
 
 - ~MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline): [Link to Content](https://youtu.be/SaybuuZFAQY)~
 
-## 3. Instruction: 2024 Workflow Sheet
+## 3. Workflow Sheet
 
-[INSTRUCTION on how to use it](https://youtu.be/BpUohnBkef8) + Link [to Template](https://docs.google.com/spreadsheets/d/1M8X83P9wy4CtMqQnjoKmNLz-UjaZCCkEaZoUSdQRaYE/edit?usp=sharing)
+Project Sheet: 
+- [INSTRUCTION on how to use it](https://youtu.be/BpUohnBkef8) + Link [to Template](https://docs.google.com/spreadsheets/d/1M8X83P9wy4CtMqQnjoKmNLz-UjaZCCkEaZoUSdQRaYE/edit?usp=sharing)
 
-## Sheety Tracker: A G Sheet solution for Tusk project tracking
-[Link to instructional video](https://youtu.be/xeVTexVQJUQ)
+Track Sheet: 
+- [Link to instructional video](https://youtu.be/xeVTexVQJUQ)
+- [Link to template](https://docs.google.com/spreadsheets/d/1GS7O6SNVN0OZst5bv8GcnmHsNT7tcc6wup2RV0b4NtE/edit?usp=sharing)
 
-[Link to template](https://docs.google.com/spreadsheets/d/1GS7O6SNVN0OZst5bv8GcnmHsNT7tcc6wup2RV0b4NtE/edit?usp=sharing)
+## 4. Instructions
 
+[Prepare and submit to arxiv](https://drive.google.com/file/d/1vBmFsV0fAw7X4Rvg2EHBmF6X5WxiNs9A/view?usp=sharing)
