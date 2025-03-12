@@ -1,10 +1,40 @@
-Here, you can find the content and instructions for our workflow. 
+Here, you can find instruction for working together. 
 
-## Setting Ground for Teamwork (Workflow)
+> Index:
+> 
+> 1- [How we work together, communicate, set deadlines, and resolve conflicts](https://github.com/Sdamirsa/HappyTreeResearchFriends/edit/main/Instruction4myTeam.md#setting-ground-for-teamwork-workflow)
+>
+> 2- [How we work together to write papers](https://github.com/Sdamirsa/HappyTreeResearchFriends/edit/main/Instruction4myTeam.md#%EF%B8%8F%EF%B8%8F-our-unified-system-for-manuscripts)
+>
+> 3- \[for tusks] How we monitor your projects, tasks, and timelines
+
+
+## 1. Setting Ground for Teamwork (Workflow)
   
 [Link to Content](https://amirsafavi.com/index.php/setting-ground-for-teamwork/)
 
-## Instruction: 2024 Workflow Sheet
+## 2. ⚠️🔴⚠️ Our Unified System for Manuscripts
+
+Writing papers is hard, collaboration is even harder, and you can imagine the result when you want to collaborate on writing papers. This unified system ensures we can prepare articles in standard high-quality formats, work together, and be efficient. Sometimes, you think these are unnecessary, but the time you put into this system would pay off for future processes (e.g., revision) or save time for another team member. Here is the system:
+
+
+- ✅ Googl Docs + ZOTERO for ref :
+  - Manuscript: G Doc
+    - [Use G doc](https://www.youtube.com/watch?v=zRLIOT1QEuE)
+    - [Paper Template](https://docs.google.com/document/d/1-354Noq7w6XHkuHWNvT-OBYXZ5XK_1OfnQkxkq5lLpc/edit?usp=sharing) (you can copy and rename this)
+  - Referencing: Zotero
+    - [How to use ZOTERO on G Doc](https://youtu.be/Oa7BNdxQ3D0)
+  - Supplementary
+    - All supplementary text, tables, and figures, should be prepared in canva (due to the functionality to export vectorized pdfs).
+    - If the Supplementary is short with one or two elements, you can prepare it in G Doc. 
+  - Figures:
+    - Figure files should be provided in PDF (vectorized), PNG, and JPEG, along with a link to canva. 
+    - Should be prepared in Canva. You can export your figures as pdf (vectorized) and then import it in canva and provide the link to this figure.
+
+
+- ~MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline): [Link to Content](https://youtu.be/SaybuuZFAQY)~
+
+## 3. Instruction: 2024 Workflow Sheet
 
 [INSTRUCTION on how to use it](https://youtu.be/BpUohnBkef8) + Link [to Template](https://docs.google.com/spreadsheets/d/1M8X83P9wy4CtMqQnjoKmNLz-UjaZCCkEaZoUSdQRaYE/edit?usp=sharing)
 
@@ -13,17 +43,3 @@ Here, you can find the content and instructions for our workflow.
 
 [Link to template](https://docs.google.com/spreadsheets/d/1GS7O6SNVN0OZst5bv8GcnmHsNT7tcc6wup2RV0b4NtE/edit?usp=sharing)
 
-## ⚠️🔴⚠️ The platform for writing articles 
-
-The platforms for writing and sharing articles are:
-
-- ~MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline): [Link to Content](https://youtu.be/SaybuuZFAQY)~
-
-- ✅ Googl Docs + ZOTERO for ref :
-  - [How to use ZOTERO on G Doc](https://youtu.be/Oa7BNdxQ3D0)
-  - [Paper Template](https://docs.google.com/document/d/1-354Noq7w6XHkuHWNvT-OBYXZ5XK_1OfnQkxkq5lLpc/edit?usp=sharing) (you can copy and rename this)
-  - [Use G doc as app in windows](https://www.youtube.com/watch?v=zRLIOT1QEuE)
-
-- Latex on overleaf
-
-All figures should be in PDF format or editable format (like canva links) + PNG/JPEG
