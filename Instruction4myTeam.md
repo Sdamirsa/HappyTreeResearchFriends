@@ -24,7 +24,7 @@ Writing papers is hard, collaboration is even harder, and you can imagine the re
     - [Use G doc](https://www.youtube.com/watch?v=zRLIOT1QEuE)
     - [Paper Template](https://docs.google.com/document/d/1-354Noq7w6XHkuHWNvT-OBYXZ5XK_1OfnQkxkq5lLpc/edit?usp=sharing) (you can copy and rename this)
   - Referencing: Zotero
-    - [How to use ZOTERO on G Doc](https://youtu.be/Oa7BNdxQ3D0)
+    - [How To Use Zotero (A Complete Beginner's Guide)](https://www.youtube.com/watch?v=tnbwKj6-pD8) (video includes a section on using Zotero on [Google Docs](https://youtu.be/tnbwKj6-pD8?t=1100))
   - Supplementary
     - All supplementary text, tables, and figures, should be prepared in canva (due to the functionality to export vectorized pdfs).
     - If the Supplementary is short with one or two elements, you can prepare it in G Doc. 
