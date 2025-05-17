@@ -9,11 +9,11 @@ This involves four stages, and the cycle then repeats, with each iteration deepe
 Decision-making is a common challenge for my mentees, so this guide will introduce you to the basics and help you complete your first cycle successfully.
 
 # General Concepts behind Self-Authorship
-- [Continous improvment](https://www.youtube.com/watch?v=anA_TiUfmbM)
-- [Aspects to consider in your life plan](https://www.youtube.com/watch?v=Rw2qaMltFcY)
-- [Japanese Philosophies for life](https://www.youtube.com/watch?v=LZ5NCgAfLLQ)
-- [Self-Discipline](https://www.youtube.com/watch?v=mPbAwFGjnko)
-- [Change Your Life – One Tiny Step at a Time](https://www.youtube.com/watch?v=75d_29QWELk)
+- [Continous improvment](https://www.youtube.com/watch?v=anA_TiUfmbM) --> 5min
+- [Aspects to consider in your life plan](https://www.youtube.com/watch?v=Rw2qaMltFcY) --> 45min
+- [Japanese Philosophies for life](https://www.youtube.com/watch?v=LZ5NCgAfLLQ) --> 6min
+- [Self-Discipline](https://www.youtube.com/watch?v=mPbAwFGjnko) --> 6 min
+- [Change Your Life – One Tiny Step at a Time](https://www.youtube.com/watch?v=75d_29QWELk) --> 11min
 
 
 # Process of Decision Making (in Uncertainty)
@@ -28,8 +28,8 @@ Decision-making is a common challenge for my mentees, so this guide will introdu
 - [Audio Book: How to think clearly (part one and two are mandatory, the rest is optional)](https://www.youtube.com/watch?v=MlCRyOUFycc&list=PLIVLXiqOkoKoqaZFt29GKYwzaSP945-C-&index=2)
 
 ### What to change, what to accept, and how to know the difference
-- [Wu Wei](https://www.youtube.com/watch?v=0DNihzV69T8)
-- [Spinoza](https://www.youtube.com/watch?v=zkVTYqQS6Gw)
+- [Wu Wei](https://www.youtube.com/watch?v=0DNihzV69T8) --> 45 min
+- [Spinoza](https://www.youtube.com/watch?v=zkVTYqQS6Gw) --> 10 min
 
 ### GOLD: Weighted Decision Matrix 
 - [Decision Matrix Analysis](https://www.youtube.com/watch?v=j2HtqQjyt5s)
@@ -43,15 +43,15 @@ Decision-making is a common challenge for my mentees, so this guide will introdu
 # Find your spark
 
 ### Consider Maslow impact on your decisions
-- [Maslow Heirarchy](https://www.youtube.com/watch?v=L0PKWTta7lU)
+- [Maslow Heirarchy](https://www.youtube.com/watch?v=L0PKWTta7lU) --> 6min
 
 ### How to find your mission
 - [Intro: finding your mission](https://www.youtube.com/watch?v=c5-LfK2i2J4)
-- [Intro by Carl Jung](https://www.youtube.com/watch?v=AyRKT8MLTwQ)
-- [Robert Greene](https://www.youtube.com/watch?v=ZE-YCwsnc6A)
-- [Robert Greene, Again](https://www.youtube.com/watch?v=phrthApnmps)
+- [Intro by Carl Jung](https://www.youtube.com/watch?v=AyRKT8MLTwQ) --> 7min
+- [Robert Greene](https://www.youtube.com/watch?v=ZE-YCwsnc6A) 
+- [Robert Greene, Again](https://www.youtube.com/watch?v=phrthApnmps) --> 10min
 
 ### How to find your career
-- [How to pick your perfect Career](https://www.youtube.com/watch?v=moQnoSYPMmY&pp=ygUWaG93IHRvIHNlbGVjdCB5b3VyIGpvYg%3D%3D)
-- [How to select your future job](https://www.youtube.com/watch?v=RTe17N_g-_c)
+- [How to pick your perfect Career](https://www.youtube.com/watch?v=moQnoSYPMmY&pp=ygUWaG93IHRvIHNlbGVjdCB5b3VyIGpvYg%3D%3D) --> 9 min
+- [How to select your future job](https://www.youtube.com/watch?v=RTe17N_g-_c) -->20min
 
