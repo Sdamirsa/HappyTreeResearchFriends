@@ -186,3 +186,5 @@ If you finished your first project and want to go deeper:
 ⬛  [Bootcamp for production=level LLM (code are old though)](https://youtu.be/twHxmU9OxDU?si=VTfzSSxsrJFB_50P)
 
 </details>
+
+Some projects: https://www.youtube.com/@sreemantidey 
