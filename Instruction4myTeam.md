@@ -25,12 +25,21 @@ Writing papers is hard, collaboration is even harder, and you can imagine the re
     - [Paper Template](https://docs.google.com/document/d/1-354Noq7w6XHkuHWNvT-OBYXZ5XK_1OfnQkxkq5lLpc/edit?usp=sharing) (you can copy and rename this)
   - Referencing: Zotero
     - [How To Use Zotero (A Complete Beginner's Guide)](https://www.youtube.com/watch?v=tnbwKj6-pD8) (video includes a section on using Zotero on [Google Docs](https://youtu.be/tnbwKj6-pD8?t=1100))
-  - Supplementary
-    - All supplementary text, tables, and figures, should be prepared in canva (due to the functionality to export vectorized pdfs).
-    - If the Supplementary is short with one or two elements, you can prepare it in G Doc. 
-  - Figures:
-    - Figure files should be provided in PDF (vectorized), PNG, and JPEG, along with a link to canva. 
-    - Should be prepared in Canva. You can export your figures as pdf (vectorized) and then import it in canva and provide the link to this figure.
+    - MUST HAVE PLUGINS for ZOTERO:
+      - DOI Manager — fetch and validate DOI / shortDOI names automatically  
+      - Better Notes for Zotero — powerful note management, linking, and annotation inside Zotero  
+      - Easier Citation — quick citation copying and consistent reference formatting  
+      - Zuplicate — detect, merge, and manage duplicate items efficiently  
+      - Zotero PDF Preview — preview PDFs directly inside the Zotero interface  
+      - PMCID Fetcher for Zotero — automatically retrieve PubMed Central IDs  
+      - arXiv Workflow for Zotero — manage, sync, and update arXiv preprints seamlessly  
+      - zotero-inspire — must-have for researchers; fetch and update InspireHEP metadata (ideal for physics and biomedical AI papers)
+      - Supplementary
+        - All supplementary text, tables, and figures, should be prepared in canva (due to the functionality to export vectorized pdfs).
+        - If the Supplementary is short with one or two elements, you can prepare it in G Doc. 
+      - Figures:
+        - Figure files should be provided in PDF (vectorized), PNG, and JPEG, along with a link to canva. 
+        - Should be prepared in Canva. You can export your figures as pdf (vectorized) and then import it in canva and provide the link to this figure.
 
 
 - ~MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline): [Link to Content](https://youtu.be/SaybuuZFAQY)~
