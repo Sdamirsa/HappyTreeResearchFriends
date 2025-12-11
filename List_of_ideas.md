@@ -7,3 +7,11 @@
 کار آنسرتینتی مژرمنت
 
 اینکه agentic AI واقعا میتونه مولتی مودال بودن رو حل کنه (با سینگل مودل ها و مرج شدن اینسایت ها شون).
+
+
+
+PanCanAID (for my team):
+- How we report Pancreas cancer (stats)
+- Defining the standards in reporting abdominal diseases
+
+PanCanAID (for all):
