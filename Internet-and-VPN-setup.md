@@ -6,7 +6,14 @@
 
 
 برای اینکه بتونید درست وصل بشید ۳ تا چیز رو باید رعایت کنید. یکی وی پی ان خوب هست. دوم ست کردن آدرس IPv4 (روی 8.8.8.8 و 8.8.8.4) و غیر فعال کردن IPv6 هست. نشتی DNS هست و سوم (در ادامه دوم) استفاده از مرورگر brave به جای chrome. من محتوای وبسایت هایی که خوندم رو میذارم که اگر رفتن روی هوا باز اینجا باشه ولی رفرنسم اینجا هست:
-- https://hiddify.com/fa/manager/basic-concepts-and-troubleshooting/How-to-check-and-prevent-DNS-leaks/ 
+- https://hiddify.com/fa/manager/basic-concepts-and-troubleshooting/How-to-check-and-prevent-DNS-leaks/
+
+<img src="https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Images/VPN%20on%20Du%20ZLT.png?raw=true" width="50%" alt="VPN setup on ZLT 28 pro admin">
+
+<img src="https://github.com/Sdamirsa/HappyTreeResearchFriends/blob/main/Images/DHCP%20on%20Du%20ZLT.png?raw=true" width="50%" alt="DHCP setup on ZLT 28 pro admin">
+
+
+
 
 # 1 وی پی ان 
 وی پی ان رو از netshekan بخرید. پروتوکل هیدیفای خیلی خوبه و سریع هم هست ولی v2ray هم اوکیه. outline روی همه سرویس ها هست و اگر برنامه نویسی نمیکنید از همه بهتره ولی اگر کد میزنید یا روی لینوکس میخواید کار کنید به نظرم v2ray و hysteria از همه بهترن (hysteria همون v2ray هست که پروتوکل ارتباطی امن تری داره). نت شکن در طول ۴ سال اخیر بهترین سرویس ر و میده و سرور که پایین میاد هم باز جایگزین میکنه و اگر تعداد اکانت زیاد خریده باشید درگاه پرداخت براتون باز هست (میتونید یوزر و پسورد من رو هم بگیرید و با اکانت من بخرید).  
