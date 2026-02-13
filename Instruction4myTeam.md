@@ -24,6 +24,7 @@ Writing papers is hard, collaboration is even harder, and you can imagine the re
     - [Use G doc](https://www.youtube.com/watch?v=zRLIOT1QEuE)
     - [Paper Template](https://docs.google.com/document/d/1-354Noq7w6XHkuHWNvT-OBYXZ5XK_1OfnQkxkq5lLpc/edit?usp=sharing) (you can copy and rename this)
   - Referencing: Zotero
+    - Join our shared web library for easier sharing of notes and files: https://www.zotero.org/groups/6427361/amir_ghabile (send me DM when you send your request to join, so I can approve it)
     - [How To Use Zotero (A Complete Beginner's Guide)](https://www.youtube.com/watch?v=tnbwKj6-pD8) (video includes a section on using Zotero on [Google Docs](https://youtu.be/tnbwKj6-pD8?t=1100))
     - MUST HAVE PLUGINS for ZOTERO:
       - DOI Manager — fetch and validate DOI / shortDOI names automatically  
