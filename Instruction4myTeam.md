@@ -1,20 +1,11 @@
-Here, you can find instructions for working together. 
+Here, you can find instructions for working together and know about **1)** our commitment culture; **2)** how we write papers; **3)** how we manage projects and track progress; and some instructions.
 
-> Index:
-> 
-> 1- [How we work together, communicate, set deadlines, and resolve conflicts](https://github.com/Sdamirsa/HappyTreeResearchFriends/edit/main/Instruction4myTeam.md#setting-ground-for-teamwork-workflow)
->
-> 2- [How we work together to write papers](https://github.com/Sdamirsa/HappyTreeResearchFriends/edit/main/Instruction4myTeam.md#%EF%B8%8F%EF%B8%8F-our-unified-system-for-manuscripts)
-> 
-> 3- \[for tusks] How we monitor your projects, tasks, and timelines
->
-> 4- Instructions: submit to arxiv
 
 ## 1. Setting Ground for Teamwork (Workflow)
   
 [Link to Content](https://amirsafavi.com/index.php/setting-ground-for-teamwork/)
 
-## 2. ⚠️🔴⚠️ Our Unified System for Manuscripts
+## 2. 🚀🚀🚀 Our Unified System for Manuscripts 🚀🚀🚀
 
 Writing papers is hard, collaboration is even harder, and you can imagine the result when you want to collaborate on writing papers. This unified system ensures we can prepare articles in standard high-quality formats, work together, and be efficient. Sometimes, you think these are unnecessary, but the time you put into this system would pay off for future processes (e.g., revision) or save time for another team member. Here is the system:
 
@@ -45,15 +36,17 @@ Writing papers is hard, collaboration is even harder, and you can imagine the re
 
 - ~MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline): [Link to Content](https://youtu.be/SaybuuZFAQY)~
 
-## 3. Workflow Sheet
+## 3. Project Management
 
-Project Sheet: 
-- [INSTRUCTION on how to use it](https://youtu.be/BpUohnBkef8) + Link [to Template](https://docs.google.com/spreadsheets/d/1M8X83P9wy4CtMqQnjoKmNLz-UjaZCCkEaZoUSdQRaYE/edit?usp=sharing)
+All projects will be managed by our project management system in ghabile.amirsafavi.com (OpenProject)
 
-Track Sheet: 
-- [Link to instructional video](https://youtu.be/xeVTexVQJUQ)
-- [Link to template](https://docs.google.com/spreadsheets/d/1GS7O6SNVN0OZst5bv8GcnmHsNT7tcc6wup2RV0b4NtE/edit?usp=sharing)
+~Project Sheet:~
+- ~[INSTRUCTION on how to use it](https://youtu.be/BpUohnBkef8) + Link [to Template](https://docs.google.com/spreadsheets/d/1M8X83P9wy4CtMqQnjoKmNLz-UjaZCCkEaZoUSdQRaYE/edit?usp=sharing)~
 
-## 4. Instructions
+~Track Sheet: ~
+- ~[Link to instructional video](https://youtu.be/xeVTexVQJUQ)~
+- ~[Link to template](https://docs.google.com/spreadsheets/d/1GS7O6SNVN0OZst5bv8GcnmHsNT7tcc6wup2RV0b4NtE/edit?usp=sharing)~
+
+## Other Instructions (see them when you want to do it)
 
 [Prepare and submit to arxiv](https://drive.google.com/file/d/1vBmFsV0fAw7X4Rvg2EHBmF6X5WxiNs9A/view?usp=sharing)
