@@ -1,11 +1,11 @@
 Here, you can find instructions for working together and know about **1)** our commitment culture; **2)** how we write papers; **3)** how we manage projects and track progress; and some instructions.
 
 
-## 1. Setting Ground for Teamwork (Workflow)
+# 1. Setting Ground for Teamwork (Workflow)
   
 [Link to Content](https://amirsafavi.com/index.php/setting-ground-for-teamwork/)
 
-## 2. 🚀🚀🚀 Our Unified System for Manuscripts 🚀🚀🚀
+# 2. 🚀🚀🚀 Our Unified System for Manuscripts 🚀🚀🚀
 
 Writing papers is hard, collaboration is even harder, and you can imagine the result when you want to collaborate on writing papers. This unified system ensures we can prepare articles in standard high-quality formats, work together, and be efficient. Sometimes, you think these are unnecessary, but the time you put into this system would pay off for future processes (e.g., revision) or save time for another team member. Here is the system:
 
@@ -30,13 +30,72 @@ Writing papers is hard, collaboration is even harder, and you can imagine the re
         - All supplementary text, tables, and figures, should be prepared in canva (due to the functionality to export vectorized pdfs).
         - If the Supplementary is short with one or two elements, you can prepare it in G Doc. 
       - Figures:
-        - Figure files should be provided in PDF (vectorized), PNG, and JPEG, along with a link to canva. 
-        - Should be prepared in Canva. You can export your figures as pdf (vectorized) and then import it in canva and provide the link to this figure.
-
 
 - ~MICROSOFT WORD + ZOTERO for ref --> sending files in email (offline): [Link to Content](https://youtu.be/SaybuuZFAQY)~
 
-## 3. Project Management
+## 2.1 Figures
+Figures are often the first thing reviewers and readers look at — a well-designed figure can communicate your key findings more effectively than paragraphs of text. Investing time in creating clear, high-quality, and visually consistent figures significantly increases the impact and readability of your paper. Always treat figures as a core part of the manuscript, not an afterthought.
+
+- All figures should be prepared in Canva.
+- When you want to share them, share PNG and PDF (always send PDF). Why? Because PDF is vectorised, you can import it into other software and vectors (Shapes, lines, text) are inherently understood. PNG is just a flat image, always check the quality, It should have correct DPI and size, which is always challenging during your first years to understand and prepare them. 
+- All figures should be **18 cm wide** — no exceptions. Height depends on the visualization but should **never exceed 22 cm**, ensuring the figure fits comfortably on a single journal page. Use the minimum height needed to keep the figure clear and readable.
+- For export, aim for **300 DPI** minimum (photographs and combination figures) and **600+ DPI** for figures with fine lines or small text. Always verify that text remains legible (≥ 7 pt) at the final exported size.
+- No text title or legend included in the image. No text at top, no text at bottom.
+- You should be able to read all text upon opening the file without any zooming in. The audience don't have maginifiers on them.
+
+**Canva users:** Canva does not allow you to set a custom DPI on export. As a workaround, design your figure at **2× the target dimensions** (i.e., 36 × 44 cm) so that when exported at Canva's default 96 DPI, the resulting image has sufficient resolution when scaled down to 18 cm. This is not the correct way to handle resolution, but it gets the job done in a pinch. The proper workflow is: export a **standard-size PDF** from Canva (18 cm wide), import it into **Affinity Designer/Publisher** (or Adobe Illustrator/Photoshop), do your final adjustments (sizing, fonts, alignment), and then export both a **PDF** (for submission) and a **high-resolution PNG** (300+ DPI, for quick sharing and review).
+
+# 3. Project Progress and Deliverables
+
+## Phase 1: Project Kickoff (Weeks 1–3)
+
+### Literature Review
+
+Find and read **8 articles** following this breakdown:
+
+| Count | Type |
+|-------|------|
+| 2 | Very similar original studies (closest to your project) |
+| 2 | Similar method applied to a different problem/task |
+| 2 | Different method applied to the same problem/task |
+| 1 | Review article with a holistic big-picture view of the problem |
+| 1 | *(Optional)* Additional review paper |
+
+Read all 8 articles **cover to cover**. You can ask AI to explain concepts, but AI cannot read the papers for you — you need to build your own understanding.
+
+**Deliverable:** Notes in Google Docs (your style, your format — whatever works for you) + all citations imported into the **Zotero** shared library. You're welcome to keep additional notes in Zotero or elsewhere.
+
+### Project Package (Work Packages)
+
+Break your project into meaningful, self-contained pieces — we call these **work packages**. Each work package should be something that is meaningful on its own. For most AI projects, aim for **4–7 work packages**.
+
+For each work package, define:
+
+- **Input** — What data or resources go in?
+- **Function** — What does this piece do?
+- **Features** — What are the key characteristics or components?
+- **Output** — What is the deliverable or result?
+
+**Deliverable:** A document on Google Docs describing all work packages.
+
+## Phase 2: Ongoing Work (30%–80% Progress)
+
+### Communication & Updates
+
+- **Weekly updates** — Even a small message counts. Post in **Telegram** and leave an official progress note (comment) on **ghabile.amirsafavi.com**. This is the most important part of showing your commitment. You don't need to work every single week, but you do need to stay visible.
+
+### When You Need Something
+
+- **From me:** Comment on **ghabile.amirsafavi.com** *and* send a DM on Telegram.
+- **From other collaborators:** Message the relevant group chat or send an email. Every project involving external people should have either a **group chat** (with me included) or an **email thread** (with me CC'd). Poke me directly if there are conflicts or blockers.
+
+### When You're Stuck
+
+1. Ask for help in the **Ghabile group**.
+2. Try **ChatGPT** (or Claude 😉) for technical issues.
+3. Reach out to me — but keep in mind that my main focus is helping you with the **big picture** of your project, not debugging details.
+
+# 4. Project Management Tool
 
 All projects will be managed by our project management system in ghabile.amirsafavi.com (OpenProject)
 
