@@ -1,4 +1,4 @@
-Here, you can find instructions for working together and know about **1)** our commitment culture; **2)** how we write papers; **3)** how we manage projects and track progress; and some instructions.
+Here, you can find instructions for working together and know about **1)** our commitment culture; **2)** how we write papers; **3)** how we progress through projects; **4)** how we manage projects.
 
 
 # 1. Setting Ground for Teamwork (Workflow)
@@ -106,6 +106,6 @@ All projects will be managed by our project management system in ghabile.amirsaf
 - ~[Link to instructional video](https://youtu.be/xeVTexVQJUQ)~
 - ~[Link to template](https://docs.google.com/spreadsheets/d/1GS7O6SNVN0OZst5bv8GcnmHsNT7tcc6wup2RV0b4NtE/edit?usp=sharing)~
 
-## Other Instructions (see them when you want to do it)
+## Appendix (see them when you want to do it)
 
 [Prepare and submit to arxiv](https://drive.google.com/file/d/1vBmFsV0fAw7X4Rvg2EHBmF6X5WxiNs9A/view?usp=sharing)
